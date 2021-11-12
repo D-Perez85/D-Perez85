@@ -32,8 +32,17 @@ Feature Skills :lock:
 ![alt text](https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465
 )
 
+![Esta es una imagen](https://imagenes.elpais.com/resizer/0Ykeld2U1APSfalsbu4ZH-uYcTA=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/YNOD65FM3UZIVC5LNG4I5HTJ6M.jpg)
+
+
+
+
+
+
+
 
 <!--
+![alt text]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D-Perez85&repo=Reward_Store&theme=dark&border_radius=20px)](https://github.com/D-Perez85/Reward_Store.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D-Perez85&repo=Proyecto_Gifos&theme=dark&border_radius=20px)](https://github.com/D-Perez85/Proyecto_Gifos.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D-Perez85&repo=Reserva_Hoteles&theme=dark&border_radius=20px)](https://github.com/D-Perez85/Reserva_Hoteles.git)
