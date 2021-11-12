@@ -29,31 +29,5 @@ Feature Skills :lock:
 
 ![alt text](https://camo.githubusercontent.com/dfc69d704694f22168bea3d84584663777fa5301dcad5bbcb5459b336da8d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
 ![alt text](https://camo.githubusercontent.com/6f61ce982d7a61713d63c947148300012945bd4a4cafb8b9313e2426c5a1f273/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3430344435393f7374796c653d666f722d7468652d6261646765)
-![alt text](https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465
-)
-
-![Esta es una imagen](https://imagenes.elpais.com/resizer/0Ykeld2U1APSfalsbu4ZH-uYcTA=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/YNOD65FM3UZIVC5LNG4I5HTJ6M.jpg)
-
-
-
-
-
-
-
-
-<!--
-![alt text]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D-Perez85&repo=Reward_Store&theme=dark&border_radius=20px)](https://github.com/D-Perez85/Reward_Store.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D-Perez85&repo=Proyecto_Gifos&theme=dark&border_radius=20px)](https://github.com/D-Perez85/Proyecto_Gifos.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D-Perez85&repo=Reserva_Hoteles&theme=dark&border_radius=20px)](https://github.com/D-Perez85/Reserva_Hoteles.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D-Perez85&repo=Podcast_Chanel&theme=dark&border_radius=20px)](https://github.com/D-Perez85/Podcast_Chanel.git)
-
-https://github.com/D-Perez85/Podcast_Chanel.git
-<a background="red" href="https://github.com/D-Perez85/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=D-Perez85&hide=stars&count_private=true&show_icons=true)](https://github.com/D-Perez85/github-readme-stats" />
-</a>
-<a href="https://github.com/D-Perez85/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Perez85&layout=compact" />
-</a>
--->
+![alt text](https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
 
