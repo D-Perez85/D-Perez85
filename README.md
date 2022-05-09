@@ -1,8 +1,8 @@
 ### Hey there! 👋, I'm Damian....
 --------------------- 
-- :heavy_check_mark: I’m interested in Programming (FrontEnd & Backend)
-- :pushpin: I’m currently learning English and finish my carrer of Analist of Systems
-- :chart_with_upwards_trend: I finished the Front End Developer career a few months ago (Acamica), and now I´am starting with the backend world; (Node js) 
+- :heavy_check_mark: I'm System Analyst & I’m interested in Programming (FrontEnd & Backend)
+- :pushpin: I’m currently learning English
+- :chart_with_upwards_trend: I finished the Front End Developer career a few months ago (Acamica), and now I´am starting with the backend world; (Node js & Mongo DB) 
 - 📫 How to reach me: you can try with Linkedin or by e-mail. 
 - :+1: Ask me about my projects / repos and why not plain a meet?
 
